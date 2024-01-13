@@ -1,0 +1,40 @@
+body{
+cursor: pointer;
+background-color: rgb(241, 244, 249);
+padding: 0%;
+margin: 0%;
+}
+.navibar
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100vw;
+    background-color: white;
+}
+img
+{
+    width:200px;
+    height: 35px;
+}
+.lilinks{
+ display: flex;
+gap: 20px;
+list-style:none;
+}
+.logoICON ul a
+{
+    color: rgb(49,157,235);
+    
+}
+
+span{
+    width: 500px;
+}
+a{
+    
+    text-decoration: none;
+}
+.navLinks ul li a{
+    color:rgb(104,145,187) ;
+}
